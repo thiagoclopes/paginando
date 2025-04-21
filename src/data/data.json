@@ -1,0 +1,184 @@
+{
+  "Header": {
+    "title": "Paginando",
+    "paragraph": "A biblioteca digital acessível que transforma a leitura em uma experiência inclusiva, conectando escolas, professores e estudantes ao conhecimento por meio de tecnologia e inovação."
+  },
+  "About": {
+    "paragraph": "Paginando é uma plataforma de leitura digital por assinatura focada em acessibilidade e inclusão. Oferecemos livros em formatos tradicionais, audiobooks narrados por IA e ferramentas adaptadas para pessoas com deficiência visual ou dificuldades de leitura. Nosso objetivo é democratizar o acesso à leitura, especialmente em escolas públicas, promovendo educação e transformação social.",
+    "Why": [
+      "Acessibilidade para todos",
+      "Leitura multimodal",
+      "Inclusão educacional",
+      "Comunidade literária"
+    ],
+    "Why2": [
+      "Planos para escolas",
+      "Descontos para redes públicas",
+      "Ferramentas pedagógicas",
+      "Parcerias com editoras"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Interface Acessível",
+      "largeImage": "img/portfolio/interface-large.jpg",
+      "smallImage": "img/portfolio/interface-small.jpg"
+    },
+    {
+      "title": "Clube do Livro Virtual",
+      "largeImage": "img/portfolio/clube-large.jpg",
+      "smallImage": "img/portfolio/clube-small.jpg"
+    },
+    {
+      "title": "Leitura Multimodal",
+      "largeImage": "img/portfolio/multimodal-large.jpg",
+      "smallImage": "img/portfolio/multimodal-small.jpg"
+    },
+    {
+      "title": "Parcerias Educacionais",
+      "largeImage": "img/portfolio/parcerias-large.jpg",
+      "smallImage": "img/portfolio/parcerias-small.jpg"
+    },
+    {
+      "title": "Acessibilidade em Libras",
+      "largeImage": "img/portfolio/libras-large.jpg",
+      "smallImage": "img/portfolio/libras-small.jpg"
+    },
+    {
+      "title": "Relatórios Pedagógicos",
+      "largeImage": "img/portfolio/relatorios-large.jpg",
+      "smallImage": "img/portfolio/relatorios-small.jpg"
+    },
+    {
+      "title": "Design Inclusivo",
+      "largeImage": "img/portfolio/design-large.jpg",
+      "smallImage": "img/portfolio/design-small.jpg"
+    },
+    {
+      "title": "Comunidade Literária",
+      "largeImage": "img/portfolio/comunidade-large.jpg",
+      "smallImage": "img/portfolio/comunidade-small.jpg"
+    },
+    {
+      "title": "Audiobooks por IA",
+      "largeImage": "img/portfolio/audiobook-large.jpg",
+      "smallImage": "img/portfolio/audiobook-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-book",
+      "name": "Biblioteca Digital",
+      "text": "Acesse milhares de e-books e audiobooks com leitura tradicional, modo imersivo e dicionário integrado."
+    },
+    {
+      "icon": "fa fa-universal-access",
+      "name": "Acessibilidade",
+      "text": "Ferramentas como Braille digital, audiodescrição de imagens e tradução em Libras para uma leitura inclusiva."
+    },
+    {
+      "icon": "fa fa-users",
+      "name": "Comunidade Literária",
+      "text": "Participe de fóruns de resenhas, chats temáticos e do Clube do Livro Virtual com encontros mensais."
+    },
+    {
+      "icon": "fa fa-school",
+      "name": "Planos para Escolas",
+      "text": "Pacotes por faixa etária com descontos para redes públicas e relatórios de desempenho pedagógico."
+    },
+    {
+      "icon": "fa fa-headphones",
+      "name": "Audiobooks por IA",
+      "text": "Ouça livros com vozes personalizáveis geradas por inteligência artificial, adaptadas às suas preferências."
+    },
+    {
+      "icon": "fa fa-chalkboard-teacher",
+      "name": "Ferramentas Pedagógicas",
+      "text": "Recursos alinhados à BNCC, oficinas de escrita e conteúdos exclusivos para professores e alunos."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"A Paginando transformou a forma como meus alunos acessam a leitura, especialmente os que têm deficiência visual. Uma ferramenta indispensável!\"",
+      "name": "Maria Silva, Professora"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"O Clube do Livro Virtual trouxe debates incríveis para nossa escola, conectando alunos e incentivando a leitura.\"",
+      "name": "João Santos, Bibliotecário"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Como estudante com dificuldade de leitura, a Paginando me deu liberdade para aprender no meu ritmo com os audiobooks.\"",
+      "name": "Ana Costa, Estudante"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"A plataforma é intuitiva e os relatórios de leitura ajudam a acompanhar o progresso dos alunos de forma prática.\"",
+      "name": "Cláudia Oliveira, Coordenadora Pedagógica"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"A parceria com a Paginando trouxe inclusão digital para nossa rede municipal, beneficiando milhares de alunos.\"",
+      "name": "Eduardo Lima, Secretário de Educação"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Os recursos de acessibilidade, como Libras e Braille digital, fazem da Paginando uma solução única no mercado.\"",
+      "name": "Fernanda Almeida, Especialista em Inclusão"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "Equipe Paginando",
+      "job": "Fundadores"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Equipe Paginando",
+      "job": "Desenvolvedores"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Equipe Paginando",
+      "job": "Especialistas em Acessibilidade"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Equipe Paginando",
+      "job": "Educadores"
+    }
+  ],
+  "Contact": {
+    "address": "Natal, RN, Brasil",
+    "phone": "+55 84 99999-9999",
+    "email": "contato@paginando.com",
+    "facebook": "facebook.com/paginandooficial",
+    "twitter": "twitter.com/paginandooficial",
+    "youtube": "youtube.com/paginandooficial"
+  },
+  "Features": [
+    {
+      "icon": "fa fa-info",
+      "title": "Design Acessível",
+      "text": "Interface com alto contraste, fontes ajustáveis e comandos por voz para garantir usabilidade inclusiva."
+    },
+    {
+      "icon": "fa fa-comments",
+      "title": "Clube do Livro Virtual",
+      "text": "Encontros mensais via Zoom com interpretação em Libras e interação com autores."
+    },
+    {
+      "icon": "fa fa-search",
+      "title": "Busca Inteligente",
+      "text": "Encontre livros por autor, tema, gênero ou faixa etária de forma rápida e intuitiva."
+    },
+    {
+      "icon": "fa fa-handshake-o",
+      "title": "Parcerias Educacionais",
+      "text": "Colaborações com editoras, ONGs e instituições como a UFRN para enriquecer o conteúdo."
+    }
+  ]
+}
