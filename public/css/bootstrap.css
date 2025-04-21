@@ -238,6 +238,9 @@ th {
   h3 {
     page-break-after: avoid;
   }
+  .text-shadow {
+    text-shadow: 2px 2px 6px rgba(0, 0, 0, 0.7);
+  }
   .navbar {
     display: none;
   }
